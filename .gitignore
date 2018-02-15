@@ -1,6 +1,7 @@
 # user-defined
 greetings/
 Tools/screen_shot.png
+debug.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
